@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/alpine-codetech.github.io/config/applicationhost.config
+/.vs/alpine-codetech.github.io/FileContentIndex/6766fb8a-56ce-4c4a-afe9-82ca2831d96f.vsidx
+/.vs/VSWorkspaceState.json
+/.vs/alpine-codetech.github.io/v17
+/.vs/alpine-codetech.github.io/FileContentIndex
+/.vs/slnx.sqlite
